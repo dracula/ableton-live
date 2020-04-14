@@ -14,11 +14,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/ableton-liv
 
 ##### Mac #####
 
-1. Find the Ableton 10 application in your Applications folder, right click on it and select Show Package Contents. Then inside the app, head into Content > App Resources > Themes and drop the theme in there.
+1. Find the Ableton 10 application in your Applications folder, right click on it and select Show Package Contents. Then inside the app, head into Content > App Resources > Themes and drop the **Dracula.ask** file in there.
 
 ##### Windows #####
 
-1. Drop the theme into C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes.
+1. Drop the **Dracula.ask** file into C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes.
 
 ##### Ableton #####
 
