@@ -8,10 +8,10 @@
       <Alpha Value="255"/>
     </ControlForeground>
     <TextDisabled>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="204"/>
     </TextDisabled>
     <ControlDisabled>
       <R Value="96"/>
@@ -29,7 +29,7 @@
       <R Value="96"/>
       <G Value="113"/>
       <B Value="164"/>
-      <Alpha Value="255"/>
+      <Alpha Value="204"/>
     </SurfaceHighlight>
     <SurfaceArea>
       <R Value="68"/>
@@ -98,9 +98,9 @@
       <Alpha Value="255"/>
     </PreferencesTab>
     <SelectionFrame>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </SelectionFrame>
     <ControlBackground>
@@ -110,9 +110,9 @@
       <Alpha Value="255"/>
     </ControlBackground>
     <ControlFillHandle>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="139"/>
+      <G Value="232"/>
+      <B Value="253"/>
       <Alpha Value="255"/>
     </ControlFillHandle>
     <ChosenDefault>
@@ -128,9 +128,9 @@
       <Alpha Value="255"/>
     </ChosenRecord>
     <ChosenPreListen>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="139"/>
+      <G Value="232"/>
+      <B Value="253"/>
       <Alpha Value="255"/>
     </ChosenPreListen>
     <ImplicitArm>
@@ -158,21 +158,21 @@
       <Alpha Value="255"/>
     </RangeDisabledOff>
     <LearnMidi>
-      <R Value="64"/>
-      <G Value="52"/>
-      <B Value="239"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </LearnMidi>
     <LearnKey>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </LearnKey>
     <LearnMacro>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
+      <R Value="255"/>
+      <G Value="122"/>
+      <B Value="198"/>
       <Alpha Value="255"/>
     </LearnMacro>
     <RangeEditField>
@@ -320,9 +320,9 @@
       <Alpha Value="255"/>
     </ClipBorder>
     <SelectionBackground>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </SelectionBackground>
     <StandbySelectionBackground>
@@ -350,34 +350,34 @@
       <Alpha Value="255"/>
     </SurfaceBackground>
     <AutomationColor>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
+      <R Value="139"/>
+      <G Value="232"/>
+      <B Value="253"/>
       <Alpha Value="255"/>
     </AutomationColor>
     <AutomationGrid>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
       <Alpha Value="255"/>
     </AutomationGrid>
     <LoopColor>
-      <R Value="160"/>
-      <G Value="160"/>
-      <B Value="160"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </LoopColor>
     <OffGridLoopColor>
-      <R Value="180"/>
-      <G Value="180"/>
-      <B Value="180"/>
-      <Alpha Value="100"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
+      <Alpha Value="255"/>
     </OffGridLoopColor>
     <ArrangementRulerMarkings>
-      <R Value="160"/>
-      <G Value="160"/>
-      <B Value="160"/>
-      <Alpha Value="255"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="204"/>
     </ArrangementRulerMarkings>
     <DetailViewRulerMarkings>
       <R Value="210"/>
@@ -416,9 +416,9 @@
       <Alpha Value="220"/>
     </WaveformColor>
     <VelocityColor>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </VelocityColor>
     <Alert>
@@ -440,9 +440,9 @@
       <Alpha Value="255"/>
     </ControlOffForeground>
     <ControlOnDisabledForeground>
-      <R Value="50"/>
-      <G Value="50"/>
-      <B Value="50"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
       <Alpha Value="255"/>
     </ControlOnDisabledForeground>
     <ControlOffDisabledForeground>
@@ -488,9 +488,9 @@
       <Alpha Value="255"/>
     </Progress>
     <ProgressText>
-      <R Value="100"/>
-      <G Value="100"/>
-      <B Value="100"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </ProgressText>
     <TransportProgress>
@@ -512,10 +512,10 @@
       <Alpha Value="255"/>
     </BrowserBar>
     <BrowserBarOverlayHintTextColor>
-      <R Value="130"/>
-      <G Value="130"/>
-      <B Value="130"/>
-      <Alpha Value="255"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="204"/>
     </BrowserBarOverlayHintTextColor>
     <BrowserDisabledItem>
       <R Value="130"/>
@@ -524,9 +524,9 @@
       <Alpha Value="255"/>
     </BrowserDisabledItem>
     <BrowserSampleWaveform>
-      <R Value="130"/>
-      <G Value="130"/>
-      <B Value="130"/>
+      <R Value="255"/>
+      <G Value="122"/>
+      <B Value="198"/>
       <Alpha Value="255"/>
     </BrowserSampleWaveform>
     <AutomationDisabled>
@@ -572,15 +572,15 @@
       <Alpha Value="255"/>
     </RetroDisplayForeground2>
     <RetroDisplayForegroundDisabled>
-      <R Value="140"/>
-      <G Value="140"/>
-      <B Value="140"/>
-      <Alpha Value="255"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="204"/>
     </RetroDisplayForegroundDisabled>
     <RetroDisplayGreen>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </RetroDisplayGreen>
     <RetroDisplayRed>
@@ -608,39 +608,39 @@
       <Alpha Value="102"/>
     </RetroDisplayScaleText>
     <ThresholdLineColor>
-      <R Value="109"/>
-      <G Value="215"/>
-      <B Value="255"/>
+      <R Value="139"/>
+      <G Value="232"/>
+      <B Value="253"/>
       <Alpha Value="255"/>
     </ThresholdLineColor>
     <GainReductionLineColor>
-      <R Value="255"/>
-      <G Value="181"/>
-      <B Value="50"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </GainReductionLineColor>
     <InputCurveColor>
-      <R Value="255"/>
-      <G Value="255"/>
-      <B Value="255"/>
-      <Alpha Value="30"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="38"/>
     </InputCurveColor>
     <InputCurveOutlineColor>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="0"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
+      <Alpha Value="255"/>
     </InputCurveOutlineColor>
     <OutputCurveColor>
-      <R Value="214"/>
-      <G Value="221"/>
-      <B Value="228"/>
-      <Alpha Value="30"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
+      <Alpha Value="38"/>
     </OutputCurveColor>
     <OutputCurveOutlineColor>
-      <R Value="237"/>
-      <G Value="240"/>
-      <B Value="244"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
       <Alpha Value="255"/>
     </OutputCurveOutlineColor>
     <SpectrumDefaultColor>
@@ -662,21 +662,21 @@
       <Alpha Value="255"/>
     </SpectrumGridLines>
     <Operator1>
-      <R Value="241"/>
-      <G Value="250"/>
-      <B Value="137"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </Operator1>
     <Operator2>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </Operator2>
     <Operator3>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
+      <R Value="255"/>
+      <G Value="122"/>
+      <B Value="198"/>
       <Alpha Value="255"/>
     </Operator3>
     <Operator4>
@@ -686,9 +686,9 @@
       <Alpha Value="255"/>
     </Operator4>
     <DrumRackScroller1>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </DrumRackScroller1>
     <DrumRackScroller2>
@@ -710,9 +710,9 @@
       <Alpha Value="255"/>
     </SurfaceAreaFocus>
     <FreezeColor>
-      <R Value="43"/>
-      <G Value="100"/>
-      <B Value="191"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </FreezeColor>
     <GridLabel>
@@ -734,9 +734,9 @@
       <Alpha Value="255"/>
     </DetailGridTiles>
     <GridGuideline>
-      <R Value="194"/>
-      <G Value="194"/>
-      <B Value="194"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
       <Alpha Value="255"/>
     </GridGuideline>
     <OffGridGuideline>
@@ -752,87 +752,87 @@
       <Alpha Value="255"/>
     </TreeColumnHeadBackground>
     <TreeColumnHeadForeground>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
       <Alpha Value="255"/>
     </TreeColumnHeadForeground>
     <TreeColumnHeadSelected>
-      <R Value="80"/>
-      <G Value="80"/>
-      <B Value="80"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </TreeColumnHeadSelected>
     <TreeColumnHeadFocus>
-      <R Value="85"/>
-      <G Value="85"/>
-      <B Value="85"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </TreeColumnHeadFocus>
     <TreeColumnHeadControl>
-      <R Value="40"/>
-      <G Value="40"/>
-      <B Value="40"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
       <Alpha Value="255"/>
     </TreeColumnHeadControl>
     <TreeRowCategoryForeground>
-      <R Value="130"/>
-      <G Value="130"/>
-      <B Value="130"/>
-      <Alpha Value="255"/>
+      <R Value="255"/>
+      <G Value="122"/>
+      <B Value="198"/>
+      <Alpha Value="204"/>
     </TreeRowCategoryForeground>
     <TreeRowCategoryBackground>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="0"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
+      <Alpha Value="255"/>
     </TreeRowCategoryBackground>
     <SearchIndication>
-      <R Value="255"/>
-      <G Value="205"/>
-      <B Value="115"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </SearchIndication>
     <SearchIndicationStandby>
-      <R Value="169"/>
-      <G Value="142"/>
-      <B Value="92"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </SearchIndicationStandby>
     <KeyZoneBackground>
-      <R Value="205"/>
-      <G Value="216"/>
-      <B Value="179"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </KeyZoneBackground>
     <KeyZoneCrossfadeRamp>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </KeyZoneCrossfadeRamp>
     <VelocityZoneBackground>
-      <R Value="218"/>
-      <G Value="180"/>
-      <B Value="180"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </VelocityZoneBackground>
     <VelocityZoneCrossfadeRamp>
       <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
+      <G Value="122"/>
+      <B Value="198"/>
       <Alpha Value="255"/>
     </VelocityZoneCrossfadeRamp>
     <SelectorZoneBackground>
-      <R Value="180"/>
-      <G Value="204"/>
-      <B Value="218"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </SelectorZoneBackground>
     <SelectorZoneCrossfadeRamp>
-      <R Value="85"/>
-      <G Value="119"/>
-      <B Value="198"/>
+      <R Value="255"/>
+      <G Value="184"/>
+      <B Value="107"/>
       <Alpha Value="255"/>
     </SelectorZoneCrossfadeRamp>
     <ViewCheckControlEnabledOff>
@@ -892,21 +892,21 @@
     <AutomationLaneHeaderAlpha Value="60"/>
     <AutomationLaneClipBodyAlpha Value="60"/>
     <BipolarPotiTriangle>
-      <R Value="30"/>
-      <G Value="30"/>
-      <B Value="30"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
       <Alpha Value="255"/>
     </BipolarPotiTriangle>
     <Poti>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </Poti>
     <DeactivatedPoti>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </DeactivatedPoti>
     <PotiNeedle>
@@ -928,9 +928,9 @@
       <Alpha Value="255"/>
     </TransportOffBackground>
     <TransportOffDisabledForeground>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
+      <R Value="248"/>
+      <G Value="248"/>
+      <B Value="242"/>
       <Alpha Value="255"/>
     </TransportOffDisabledForeground>
     <TransportSelectionBackground>
