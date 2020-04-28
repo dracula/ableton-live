@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="1" Creator="go4t eggs" Revision="">
+<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="1" Creator="synthbeans" Revision="">
   <SkinManager>
     <ControlForeground>
       <R Value="248"/>
@@ -320,16 +320,16 @@
       <Alpha Value="255"/>
     </ClipBorder>
     <SelectionBackground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </SelectionBackground>
     <StandbySelectionBackground>
       <R Value="68"/>
       <G Value="71"/>
       <B Value="90"/>
-      <Alpha Value="255"/>
+      <Alpha Value="138"/>
     </StandbySelectionBackground>
     <SelectionForeground>
       <R Value="248"/>
@@ -386,16 +386,16 @@
       <Alpha Value="255"/>
     </DetailViewRulerMarkings>
     <ShadowDark>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="165"/>
+      <R Value="39"/>
+      <G Value="41"/>
+      <B Value="53"/>
+      <Alpha Value="255"/>
     </ShadowDark>
     <ShadowLight>
-      <R Value="85"/>
-      <G Value="85"/>
-      <B Value="85"/>
-      <Alpha Value="160"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
+      <Alpha Value="255"/>
     </ShadowLight>
     <DisplayBackground>
       <R Value="40"/>
@@ -428,9 +428,9 @@
       <Alpha Value="255"/>
     </Alert>
     <ControlOnForeground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </ControlOnForeground>
     <ControlOffForeground>
@@ -440,15 +440,15 @@
       <Alpha Value="255"/>
     </ControlOffForeground>
     <ControlOnDisabledForeground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </ControlOnDisabledForeground>
     <ControlOffDisabledForeground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
+      <R Value="68"/>
+      <G Value="71"/>
+      <B Value="90"/>
       <Alpha Value="255"/>
     </ControlOffDisabledForeground>
     <ControlOnAlternativeForeground>
@@ -464,15 +464,15 @@
       <Alpha Value="255"/>
     </ControlTextBack>
     <ControlContrastFrame>
-      <R Value="30"/>
-      <G Value="30"/>
-      <B Value="30"/>
+      <R Value="96"/>
+      <G Value="113"/>
+      <B Value="164"/>
       <Alpha Value="255"/>
     </ControlContrastFrame>
     <ControlSelectionFrame>
-      <R Value="30"/>
-      <G Value="30"/>
-      <B Value="30"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </ControlSelectionFrame>
     <ControlContrastTransport>
@@ -934,9 +934,9 @@
       <Alpha Value="255"/>
     </TransportOffDisabledForeground>
     <TransportSelectionBackground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
+      <R Value="191"/>
+      <G Value="149"/>
+      <B Value="249"/>
       <Alpha Value="255"/>
     </TransportSelectionBackground>
   </SkinManager>
