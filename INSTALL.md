@@ -10,6 +10,15 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 Download using the [GitHub .zip download](https://github.com/dracula/ableton-live/archive/master.zip) option and unzip them.
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install with [homebrew-music](https://github.com/danielbayley/homebrew-music):
+
+``` sh
+brew tap danielbayley/music
+brew cask install ableton-live-theme-dracula
+```
+
 #### Activating theme
 
 ##### Mac
