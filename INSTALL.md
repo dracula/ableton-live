@@ -16,7 +16,7 @@ Easily install with [homebrew-music](https://github.com/danielbayley/homebrew-mu
 
 ``` sh
 brew tap danielbayley/music
-brew cask install ableton-live-theme-dracula
+brew install --cask ableton-live-theme-dracula
 ```
 
 #### Activating theme
