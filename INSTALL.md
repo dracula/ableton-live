@@ -23,14 +23,14 @@ brew install --cask ableton-live-theme-dracula
 
 ##### Mac
 
-1. Find the Ableton 10 application in your `Applications` folder
+1. Find the Ableton application in your `Applications` folder
 2. Right click on it and select `Show Package Contents`
 3. Then inside the app, head into `Content > App Resources > Themes`
 4. Drop the `Dracula.ask` file in there
 
 ##### Windows
 
-1. Drop the `Dracula.ask` file into `C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes`.
+1. Drop the `Dracula.ask` file into `C:\ProgramData\Ableton\Live **your version number and edition**\Resources\Themes`.
 
 ##### Ableton
 
