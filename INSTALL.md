@@ -12,11 +12,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/ableton-liv
 
 #### Install using [Homebrew](https://brew.sh)
 
-Easily install with [homebrew-music](https://github.com/danielbayley/homebrew-music):
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/master/Casks/dracula-ableton-live.rb):
 
 ``` sh
-brew tap danielbayley/music
-brew install --cask ableton-live-theme-dracula
+brew tap dracula/install
+brew install --cask dracula-ableton-live
 ```
 
 #### Activating theme
