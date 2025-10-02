@@ -1,943 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Ableton MajorVersion="5" MinorVersion="10.0_370" SchemaChangeCount="1" Creator="synthbeans" Revision="">
-  <SkinManager>
-    <ControlForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </ControlForeground>
-    <TextDisabled>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="204"/>
-    </TextDisabled>
-    <ControlDisabled>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ControlDisabled>
-    <MeterBackground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </MeterBackground>
-    <SurfaceHighlight>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="204"/>
-    </SurfaceHighlight>
-    <SurfaceArea>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </SurfaceArea>
-    <Desktop>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </Desktop>
-    <ViewCheckControlEnabledOn>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </ViewCheckControlEnabledOn>
-    <ScrollbarInnerHandle>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ScrollbarInnerHandle>
-    <ScrollbarInnerTrack>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </ScrollbarInnerTrack>
-    <ScrollbarOuterHandle>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </ScrollbarOuterHandle>
-    <ScrollbarOuterTrack>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ScrollbarOuterTrack>
-    <ScrollbarLCDHandle>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ScrollbarLCDHandle>
-    <ScrollbarLCDTrack>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ScrollbarLCDTrack>
-    <DetailViewBackground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </DetailViewBackground>
-    <PreferencesTab>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </PreferencesTab>
-    <SelectionFrame>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </SelectionFrame>
-    <ControlBackground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ControlBackground>
-    <ControlFillHandle>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </ControlFillHandle>
-    <ChosenDefault>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </ChosenDefault>
-    <ChosenRecord>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </ChosenRecord>
-    <ChosenPreListen>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </ChosenPreListen>
-    <ImplicitArm>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </ImplicitArm>
-    <RangeDefault>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </RangeDefault>
-    <RangeDisabled>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </RangeDisabled>
-    <RangeDisabledOff>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </RangeDisabledOff>
-    <LearnMidi>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </LearnMidi>
-    <LearnKey>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </LearnKey>
-    <LearnMacro>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </LearnMacro>
-    <RangeEditField>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </RangeEditField>
-    <RangeEditField2>
-      <R Value="139"/>
-      <G Value="75"/>
-      <B Value="71"/>
-      <Alpha Value="255"/>
-    </RangeEditField2>
-    <BipolReset>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </BipolReset>
-    <ChosenAlternative>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </ChosenAlternative>
-    <ChosenAlert>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </ChosenAlert>
-    <ChosenPlay>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
-      <Alpha Value="255"/>
-    </ChosenPlay>
-    <Clip1>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </Clip1>
-    <Clip2>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </Clip2>
-    <Clip3>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </Clip3>
-    <Clip4>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
-      <Alpha Value="255"/>
-    </Clip4>
-    <Clip5>
-      <R Value="241"/>
-      <G Value="250"/>
-      <B Value="137"/>
-      <Alpha Value="255"/>
-    </Clip5>
-    <Clip6>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
-      <Alpha Value="255"/>
-    </Clip6>
-    <Clip7>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </Clip7>
-    <Clip8>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </Clip8>
-    <Clip9>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </Clip9>
-    <Clip10>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </Clip10>
-    <Clip11>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </Clip11>
-    <Clip12>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
-      <Alpha Value="255"/>
-    </Clip12>
-    <Clip13>
-      <R Value="241"/>
-      <G Value="250"/>
-      <B Value="137"/>
-      <Alpha Value="255"/>
-    </Clip13>
-    <Clip14>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
-      <Alpha Value="255"/>
-    </Clip14>
-    <Clip15>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </Clip15>
-    <Clip16>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </Clip16>
-    <ClipText>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="255"/>
-    </ClipText>
-    <ClipBorder>
-      <R Value="255"/>
-      <G Value="255"/>
-      <B Value="255"/>
-      <Alpha Value="255"/>
-    </ClipBorder>
-    <SelectionBackground>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </SelectionBackground>
-    <StandbySelectionBackground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="138"/>
-    </StandbySelectionBackground>
-    <SelectionForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </SelectionForeground>
-    <StandbySelectionForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </StandbySelectionForeground>
-    <SurfaceBackground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </SurfaceBackground>
-    <AutomationColor>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </AutomationColor>
-    <AutomationGrid>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </AutomationGrid>
-    <LoopColor>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </LoopColor>
-    <OffGridLoopColor>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </OffGridLoopColor>
-    <ArrangementRulerMarkings>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="204"/>
-    </ArrangementRulerMarkings>
-    <DetailViewRulerMarkings>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
-      <Alpha Value="255"/>
-    </DetailViewRulerMarkings>
-    <ShadowDark>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </ShadowDark>
-    <ShadowLight>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </ShadowLight>
-    <DisplayBackground>
-      <R Value="40"/>
-      <G Value="40"/>
-      <B Value="40"/>
-      <Alpha Value="255"/>
-    </DisplayBackground>
-    <AbletonColor>
-      <R Value="82"/>
-      <G Value="250"/>
-      <B Value="124"/>
-      <Alpha Value="255"/>
-    </AbletonColor>
-    <WaveformColor>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="220"/>
-    </WaveformColor>
-    <VelocityColor>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </VelocityColor>
-    <Alert>
-      <R Value="255"/>
-      <G Value="87"/>
-      <B Value="87"/>
-      <Alpha Value="255"/>
-    </Alert>
-    <ControlOnForeground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </ControlOnForeground>
-    <ControlOffForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </ControlOffForeground>
-    <ControlOnDisabledForeground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ControlOnDisabledForeground>
-    <ControlOffDisabledForeground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </ControlOffDisabledForeground>
-    <ControlOnAlternativeForeground>
-      <R Value="20"/>
-      <G Value="20"/>
-      <B Value="20"/>
-      <Alpha Value="255"/>
-    </ControlOnAlternativeForeground>
-    <ControlTextBack>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </ControlTextBack>
-    <ControlContrastFrame>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ControlContrastFrame>
-    <ControlSelectionFrame>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </ControlSelectionFrame>
-    <ControlContrastTransport>
-      <R Value="40"/>
-      <G Value="40"/>
-      <B Value="40"/>
-      <Alpha Value="255"/>
-    </ControlContrastTransport>
-    <Progress>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </Progress>
-    <ProgressText>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </ProgressText>
-    <TransportProgress>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </TransportProgress>
-    <ClipSlotButton>
-      <R Value="40"/>
-      <G Value="40"/>
-      <B Value="40"/>
-      <Alpha Value="255"/>
-    </ClipSlotButton>
-    <BrowserBar>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </BrowserBar>
-    <BrowserBarOverlayHintTextColor>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="204"/>
-    </BrowserBarOverlayHintTextColor>
-    <BrowserDisabledItem>
-      <R Value="130"/>
-      <G Value="130"/>
-      <B Value="130"/>
-      <Alpha Value="255"/>
-    </BrowserDisabledItem>
-    <BrowserSampleWaveform>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </BrowserSampleWaveform>
-    <AutomationDisabled>
-      <R Value="160"/>
-      <G Value="160"/>
-      <B Value="160"/>
-      <Alpha Value="255"/>
-    </AutomationDisabled>
-    <AutomationMouseOver>
-      <R Value="93"/>
-      <G Value="187"/>
-      <B Value="216"/>
-      <Alpha Value="255"/>
-    </AutomationMouseOver>
-    <MidiNoteMaxVelocity>
-      <R Value="255"/>
-      <G Value="88"/>
-      <B Value="76"/>
-      <Alpha Value="255"/>
-    </MidiNoteMaxVelocity>
-    <RetroDisplayBackground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </RetroDisplayBackground>
-    <RetroDisplayBackgroundLine>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </RetroDisplayBackgroundLine>
-    <RetroDisplayForeground>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </RetroDisplayForeground>
-    <RetroDisplayForeground2>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </RetroDisplayForeground2>
-    <RetroDisplayForegroundDisabled>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="204"/>
-    </RetroDisplayForegroundDisabled>
-    <RetroDisplayGreen>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </RetroDisplayGreen>
-    <RetroDisplayRed>
-      <R Value="109"/>
-      <G Value="215"/>
-      <B Value="255"/>
-      <Alpha Value="255"/>
-    </RetroDisplayRed>
-    <RetroDisplayHandle1>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </RetroDisplayHandle1>
-    <RetroDisplayHandle2>
-      <R Value="237"/>
-      <G Value="165"/>
-      <B Value="159"/>
-      <Alpha Value="255"/>
-    </RetroDisplayHandle2>
-    <RetroDisplayScaleText>
-      <R Value="255"/>
-      <G Value="255"/>
-      <B Value="255"/>
-      <Alpha Value="102"/>
-    </RetroDisplayScaleText>
-    <ThresholdLineColor>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </ThresholdLineColor>
-    <GainReductionLineColor>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </GainReductionLineColor>
-    <InputCurveColor>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="38"/>
-    </InputCurveColor>
-    <InputCurveOutlineColor>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </InputCurveOutlineColor>
-    <OutputCurveColor>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="38"/>
-    </OutputCurveColor>
-    <OutputCurveOutlineColor>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </OutputCurveOutlineColor>
-    <SpectrumDefaultColor>
-      <R Value="139"/>
-      <G Value="232"/>
-      <B Value="253"/>
-      <Alpha Value="255"/>
-    </SpectrumDefaultColor>
-    <SpectrumAlternativeColor>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </SpectrumAlternativeColor>
-    <SpectrumGridLines>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </SpectrumGridLines>
-    <Operator1>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </Operator1>
-    <Operator2>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </Operator2>
-    <Operator3>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </Operator3>
-    <Operator4>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
-      <Alpha Value="255"/>
-    </Operator4>
-    <DrumRackScroller1>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </DrumRackScroller1>
-    <DrumRackScroller2>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </DrumRackScroller2>
-    <FilledDrumRackPad>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </FilledDrumRackPad>
-    <SurfaceAreaFocus>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </SurfaceAreaFocus>
-    <FreezeColor>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </FreezeColor>
-    <GridLabel>
-      <R Value="0"/>
-      <G Value="0"/>
-      <B Value="0"/>
-      <Alpha Value="128"/>
-    </GridLabel>
-    <ArrangerGridTiles>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="128"/>
-    </ArrangerGridTiles>
-    <DetailGridTiles>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </DetailGridTiles>
-    <GridGuideline>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </GridGuideline>
-    <OffGridGuideline>
-      <R Value="255"/>
-      <G Value="255"/>
-      <B Value="255"/>
-      <Alpha Value="120"/>
-    </OffGridGuideline>
-    <TreeColumnHeadBackground>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </TreeColumnHeadBackground>
-    <TreeColumnHeadForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </TreeColumnHeadForeground>
-    <TreeColumnHeadSelected>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </TreeColumnHeadSelected>
-    <TreeColumnHeadFocus>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </TreeColumnHeadFocus>
-    <TreeColumnHeadControl>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </TreeColumnHeadControl>
-    <TreeRowCategoryForeground>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="204"/>
-    </TreeRowCategoryForeground>
-    <TreeRowCategoryBackground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </TreeRowCategoryBackground>
-    <SearchIndication>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </SearchIndication>
-    <SearchIndicationStandby>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </SearchIndicationStandby>
-    <KeyZoneBackground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </KeyZoneBackground>
-    <KeyZoneCrossfadeRamp>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </KeyZoneCrossfadeRamp>
-    <VelocityZoneBackground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </VelocityZoneBackground>
-    <VelocityZoneCrossfadeRamp>
-      <R Value="255"/>
-      <G Value="122"/>
-      <B Value="198"/>
-      <Alpha Value="255"/>
-    </VelocityZoneCrossfadeRamp>
-    <SelectorZoneBackground>
-      <R Value="96"/>
-      <G Value="113"/>
-      <B Value="164"/>
-      <Alpha Value="255"/>
-    </SelectorZoneBackground>
-    <SelectorZoneCrossfadeRamp>
-      <R Value="255"/>
-      <G Value="184"/>
-      <B Value="107"/>
-      <Alpha Value="255"/>
-    </SelectorZoneCrossfadeRamp>
-    <ViewCheckControlEnabledOff>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
-      <Alpha Value="127"/>
-    </ViewCheckControlEnabledOff>
-    <ViewCheckControlDisabledOn>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
-      <Alpha Value="255"/>
-    </ViewCheckControlDisabledOn>
-    <ViewCheckControlDisabledOff>
-      <R Value="210"/>
-      <G Value="210"/>
-      <B Value="210"/>
-      <Alpha Value="64"/>
-    </ViewCheckControlDisabledOff>
-    <DefaultBlendFactor Value="0.8000000119"/>
-    <IconBlendFactor Value="0.6499999762"/>
-    <ClipBlendFactor Value="0.75"/>
-    <NoteBorderStandbyBlendFactor Value="0.5"/>
-    <RetroDisplayBlendFactor Value="0.8999999762"/>
-    <CheckControlNotCheckedBlendFactor Value="0.5"/>
-    <MixSurfaceAreaBlendFactor Value="0.349999994"/>
-    <TextFrameSegmentBlendFactor Value="0.6000000238"/>
-    <VelocityEditorForegroundSelectedBlendFactor Value="0.6000000238"/>
-    <NoteDisabledSelectedBlendFactor Value="0.5"/>
-    <BackgroundClip>
-      <R Value="108"/>
-      <G Value="108"/>
-      <B Value="108"/>
-      <Alpha Value="255"/>
-    </BackgroundClip>
-    <BackgroundClipFrame>
-      <R Value="37"/>
-      <G Value="37"/>
-      <B Value="37"/>
-      <Alpha Value="255"/>
-    </BackgroundClipFrame>
-    <WarperTimeBarRulerBackground>
-      <R Value="65"/>
-      <G Value="65"/>
-      <B Value="65"/>
-      <Alpha Value="255"/>
-    </WarperTimeBarRulerBackground>
-    <WarperTimeBarMarkerBackground>
-      <R Value="55"/>
-      <G Value="55"/>
-      <B Value="55"/>
-      <Alpha Value="255"/>
-    </WarperTimeBarMarkerBackground>
-    <MinVelocityNoteBlendFactor Value="0.200000003"/>
-    <StripedBackgroundShadeFactor Value="0.8999999762"/>
-    <AutomationLaneHeaderAlpha Value="60"/>
-    <AutomationLaneClipBodyAlpha Value="60"/>
-    <BipolarPotiTriangle>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </BipolarPotiTriangle>
-    <Poti>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </Poti>
-    <DeactivatedPoti>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </DeactivatedPoti>
-    <PotiNeedle>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </PotiNeedle>
-    <DeactivatedPotiNeedle>
-      <R Value="68"/>
-      <G Value="71"/>
-      <B Value="90"/>
-      <Alpha Value="255"/>
-    </DeactivatedPotiNeedle>
-    <TransportOffBackground>
-      <R Value="39"/>
-      <G Value="41"/>
-      <B Value="53"/>
-      <Alpha Value="255"/>
-    </TransportOffBackground>
-    <TransportOffDisabledForeground>
-      <R Value="248"/>
-      <G Value="248"/>
-      <B Value="242"/>
-      <Alpha Value="255"/>
-    </TransportOffDisabledForeground>
-    <TransportSelectionBackground>
-      <R Value="191"/>
-      <G Value="149"/>
-      <B Value="249"/>
-      <Alpha Value="255"/>
-    </TransportSelectionBackground>
-  </SkinManager>
+<Ableton MajorVersion="5" MinorVersion="12.0_12047" SchemaChangeCount="2" Creator="synthbeans" Revision="">
+	<Theme>
+		<ControlForeground Value="#f8f8f2"/>
+		<TextDisabled Value="#f8f8f2cc"/>
+		<ControlDisabled Value="#6071a4"/>
+		<MeterBackground Value="#272935"/>
+		<SurfaceHighlight Value="#6071a4cc"/>
+		<SurfaceArea Value="#44475a"/>
+		<Desktop Value="#272935"/>
+		<ViewCheckControlEnabledOn Value="#ff7ac6"/>
+		<ScrollbarInnerHandle Value="#6071a4"/>
+		<ScrollbarInnerTrack Value="#272935"/>
+		<ScrollbarLcdHandle Value="#6071a4"/>
+		<ScrollbarLcdTrack Value="#6071a4"/>
+		<ScrollbarMixerShowOnScrollHandle Value="#00000066"/>
+		<DetailViewBackground Value="#44475a"/>
+		<PreferencesTab Value="#44475a"/>
+		<SelectionFrame Value="#bf95f9"/>
+		<ControlBackground Value="#6071a4"/>
+		<ControlFillHandle Value="#8be8fd"/>
+		<ChosenDefault Value="#ff7ac6"/>
+		<ChosenRecord Value="#ff5757"/>
+		<ChosenPreListen Value="#8be8fd"/>
+		<ImplicitArm Value="#ff5757"/>
+		<RangeDefault Value="#8be8fd"/>
+		<RangeDisabled Value="#6071a4"/>
+		<RangeDisabledOff Value="#272935"/>
+		<LearnMidi Value="#6071a4"/>
+		<LearnKey Value="#bf95f9"/>
+		<LearnMacro Value="#ff7ac6"/>
+		<RangeEditField Value="#6071a4"/>
+		<RangeEditField2 Value="#8b4b47"/>
+		<BipolReset Value="#8be8fd"/>
+		<ChosenAlternative Value="#8be8fd"/>
+		<ChosenAlert Value="#ff5757"/>
+		<ChosenPlay Value="#52fa7c"/>
+		<Clip1 Value="#bf95f9"/>
+		<Clip2 Value="#ff7ac6"/>
+		<Clip3 Value="#ff5757"/>
+		<Clip4 Value="#ffb86b"/>
+		<Clip5 Value="#f1fa89"/>
+		<Clip6 Value="#52fa7c"/>
+		<Clip7 Value="#8be8fd"/>
+		<Clip8 Value="#6071a4"/>
+		<Clip9 Value="#bf95f9"/>
+		<Clip10 Value="#ff7ac6"/>
+		<Clip11 Value="#ff5757"/>
+		<Clip12 Value="#ffb86b"/>
+		<Clip13 Value="#f1fa89"/>
+		<Clip14 Value="#52fa7c"/>
+		<Clip15 Value="#8be8fd"/>
+		<Clip16 Value="#6071a4"/>
+		<ClipText Value="#000000"/>
+		<ClipBorder Value="#ffffff"/>
+		<SceneContrast Value="#272935"/>
+		<SelectionBackground Value="#bf95f9"/>
+		<StandbySelectionBackground Value="#44475a8a"/>
+		<SelectionForeground Value="#f8f8f2"/>
+		<StandbySelectionForeground Value="#f8f8f2"/>
+		<SelectionBackgroundContrast Value="#bf95f9"/>
+		<SurfaceBackground Value="#272935"/>
+		<TakeLaneTrackHighlighted Value="#6071a4cc"/>
+		<TakeLaneTrackNotHighlighted Value="#272935"/>
+		<AutomationColor Value="#8be8fd"/>
+		<AutomationGrid Value="#272935"/>
+		<LoopColor Value="#bf95f9"/>
+		<OffGridLoopColor Value="#bf95f9"/>
+		<ArrangementRulerMarkings Value="#f8f8f2cc"/>
+		<DetailViewRulerMarkings Value="#d2d2d2"/>
+		<ShadowDark Value="#272935"/>
+		<ShadowLight Value="#44475a"/>
+		<DisplayBackground Value="#282828"/>
+		<AbletonColor Value="#52fa7c"/>
+		<WaveformColor Value="#000000dc"/>
+		<DimmedWaveformColor Value="#000000dc"/>
+		<VelocityColor Value="#bf95f9"/>
+		<VelocitySelectedOrHovered Value="#bf95f9"/>
+		<NoteProbability Value="#272935"/>
+		<Alert Value="#ff5757"/>
+		<ControlOnForeground Value="#44475a"/>
+		<ControlOffForeground Value="#f8f8f2"/>
+		<ControlOnDisabledForeground Value="#6071a4"/>
+		<ControlOffDisabledForeground Value="#44475a"/>
+		<ControlOnAlternativeForeground Value="#141414"/>
+		<ControlTextBack Value="#44475a"/>
+		<ControlContrastFrame Value="#6071a4"/>
+		<ControlSelectionFrame Value="#bf95f9"/>
+		<ControlContrastTransport Value="#282828"/>
+		<ViewControlOn Value="#ff7ac6"/>
+		<ViewControlOff Value="#272935"/>
+		<Progress Value="#ff7ac6"/>
+		<ProgressText Value="#6071a4"/>
+		<TransportProgress Value="#bf95f9"/>
+		<ClipSlotButton Value="#282828"/>
+		<BrowserBar Value="#44475a"/>
+		<BrowserBarOverlayHintTextColor Value="#f8f8f2cc"/>
+		<BrowserDisabledItem Value="#828282"/>
+		<BrowserSampleWaveform Value="#ff7ac6"/>
+		<AutomationDisabled Value="#a0a0a0"/>
+		<AutomationMouseOver Value="#5dbbd8"/>
+		<MidiNoteMaxVelocity Value="#ff584c"/>
+		<RetroDisplayBackground Value="#272935"/>
+		<RetroDisplayBackgroundLine Value="#44475a"/>
+		<RetroDisplayForeground Value="#ff7ac6"/>
+		<RetroDisplayForeground2 Value="#8be8fd"/>
+		<RetroDisplayForegroundDisabled Value="#f8f8f2cc"/>
+		<RetroDisplayGreen Value="#bf95f9"/>
+		<RetroDisplayRed Value="#6dd7ff"/>
+		<RetroDisplayHandle1 Value="#ff7ac6"/>
+		<RetroDisplayHandle2 Value="#eda59f"/>
+		<RetroDisplayScaleText Value="#ffffff66"/>
+		<RetroDisplayTitle Value="#f8f8f2"/>
+		<ThresholdLineColor Value="#8be8fd"/>
+		<GainReductionLineColor Value="#bf95f9"/>
+		<InputCurveColor Value="#f8f8f226"/>
+		<InputCurveOutlineColor Value="#272935"/>
+		<OutputCurveColor Value="#f8f8f226"/>
+		<OutputCurveOutlineColor Value="#f8f8f2"/>
+		<SpectrumDefaultColor Value="#8be8fd"/>
+		<SpectrumAlternativeColor Value="#6071a4"/>
+		<SpectrumGridLines Value="#44475a"/>
+		<Operator1 Value="#6071a4"/>
+		<Operator2 Value="#bf95f9"/>
+		<Operator3 Value="#ff7ac6"/>
+		<Operator4 Value="#ffb86b"/>
+		<DrumRackScroller1 Value="#44475a"/>
+		<DrumRackScroller2 Value="#44475a"/>
+		<FilledDrumRackPad Value="#6071a4"/>
+		<SurfaceAreaFocus Value="#272935"/>
+		<FreezeColor Value="#bf95f9"/>
+		<GridLabel Value="#00000080"/>
+		<ArrangerGridTiles Value="#44475a80"/>
+		<DetailGridTiles Value="#272935"/>
+		<GridGuideline Value="#f8f8f2"/>
+		<OffGridGuideline Value="#ffffff78"/>
+		<TreeColumnHeadBackground Value="#44475a"/>
+		<TreeColumnHeadForeground Value="#f8f8f2"/>
+		<TreeColumnHeadSelected Value="#44475a"/>
+		<TreeColumnHeadFocus Value="#44475a"/>
+		<TreeColumnHeadControl Value="#272935"/>
+		<TreeRowCategoryForeground Value="#ff7ac6cc"/>
+		<TreeRowCategoryBackground Value="#272935"/>
+		<BrowserTagBackground Value="#44475a"/>
+		<SearchIndication Value="#bf95f9"/>
+		<KeyZoneBackground Value="#6071a4"/>
+		<KeyZoneCrossfadeRamp Value="#bf95f9"/>
+		<VelocityZoneBackground Value="#6071a4"/>
+		<VelocityZoneCrossfadeRamp Value="#ff7ac6"/>
+		<SelectorZoneBackground Value="#6071a4"/>
+		<SelectorZoneCrossfadeRamp Value="#ffb86b"/>
+		<ViewCheckControlEnabledOff Value="#d2d2d27f"/>
+		<ViewCheckControlDisabledOn Value="#d2d2d2"/>
+		<ViewCheckControlDisabledOff Value="#d2d2d240"/>
+		<DefaultBlendFactor Value="0.8"/>
+		<IconBlendFactor Value="0.65"/>
+		<ClipBlendFactor Value="0.75"/>
+		<NoteBorderStandbyBlendFactor Value="0.5"/>
+		<RetroDisplayBlendFactor Value="0.9"/>
+		<CheckControlNotCheckedBlendFactor Value="0.5"/>
+		<MixSurfaceAreaBlendFactor Value="0.35"/>
+		<TextFrameSegmentBlendFactor Value="0.6"/>
+		<NoteDisabledSelectedBlendFactor Value="0.5"/>
+		<BackgroundClip Value="#6c6c6c"/>
+		<BackgroundClipFrame Value="#252525"/>
+		<WarperTimeBarRulerBackground Value="#414141"/>
+		<WarperTimeBarMarkerBackground Value="#373737"/>
+		<MinVelocityNoteBlendFactor Value="0.2"/>
+		<StripedBackgroundShadeFactor Value="0.9"/>
+		<ClipBorderAlpha Value="72"/>
+		<ScrollBarAlpha Value="100"/>
+		<ScrollBarOnHoverAlpha Value="255"/>
+		<ScrollBarBackgroundAlpha Value="0"/>
+		<InaudibleTakeLightness Value="0.4"/>
+		<InaudibleTakeSaturation Value="0.4"/>
+		<InaudibleTakeNameLightness Value="0.75"/>
+		<InaudibleTakeNameSaturation Value="0.8"/>
+		<AutomationLaneClipBodyLightness Value="0.3"/>
+		<AutomationLaneClipBodySaturation Value="0.2"/>
+		<AutomationLaneHeaderLightness Value="0.4"/>
+		<AutomationLaneHeaderSaturation Value="1"/>
+		<TakeLaneHeaderLightness Value="0.4"/>
+		<TakeLaneHeaderSaturation Value="1"/>
+		<TakeLaneHeaderNameLightness Value="0.85"/>
+		<TakeLaneHeaderNameSaturation Value="1"/>
+		<AutomationLaneHeaderNameLightness Value="0.85"/>
+		<AutomationLaneHeaderNameSaturation Value="1"/>
+		<ClipContrastColorAdjustment Value="20"/>
+		<SessionSlotOklabLCompensationFactor Value="50"/>
+		<BipolarPotiTriangle Value="#272935"/>
+		<Poti Value="#44475a"/>
+		<DeactivatedPoti Value="#44475a"/>
+		<PotiNeedle Value="#f8f8f2"/>
+		<DeactivatedPotiNeedle Value="#44475a"/>
+		<PianoBlackKey Value="#313131"/>
+		<PianoWhiteKey Value="#e0e0e0"/>
+		<PianoKeySeparator Value="#4f4f4f"/>
+		<TransportOffBackground Value="#272935"/>
+		<TransportOffDisabledForeground Value="#f8f8f2"/>
+		<TransportOffForeground Value="#f8f8f2"/>
+		<TransportSelectionBackground Value="#bf95f9"/>
+		<MutedAuditionClip Value="#bababa"/>
+		<LinkedTrackHover Value="#bf95f9"/>
+		<ExpressionLaneHeaderHighlight Value="#6071a4cc"/>
+		<DeactivatedClipHeader Value="#999999df"/>
+		<DeactivatedClipHeaderForeground Value="#393939"/>
+		<ScaleAwareness Value="#ff7ac6"/>
+		<StandardVuMeter>
+			<OnlyMinimumToMaximum Value="false"/>
+			<Maximum Value="#ff0a0a"/>
+			<AboveZeroDecibel Value="#ffd00a"/>
+			<ZeroDecibel Value="#c6f864"/>
+			<Minimum Value="#0af864"/>
+		</StandardVuMeter>
+		<OverloadVuMeter>
+			<OnlyMinimumToMaximum Value="true"/>
+			<Maximum Value="#ff0a0a"/>
+			<AboveZeroDecibel Value="#ffffff"/>
+			<ZeroDecibel Value="#ffffff"/>
+			<Minimum Value="#af0a0a"/>
+		</OverloadVuMeter>
+		<DisabledVuMeter>
+			<OnlyMinimumToMaximum Value="false"/>
+			<Maximum Value="#ff0a0a"/>
+			<AboveZeroDecibel Value="#ffd00a"/>
+			<ZeroDecibel Value="#828282"/>
+			<Minimum Value="#6e6e6e"/>
+		</DisabledVuMeter>
+		<HeadphonesVuMeter>
+			<OnlyMinimumToMaximum Value="false"/>
+			<Maximum Value="#a5a5f1"/>
+			<AboveZeroDecibel Value="#90aaec"/>
+			<ZeroDecibel Value="#90aaec"/>
+			<Minimum Value="#0affff"/>
+		</HeadphonesVuMeter>
+		<SendsOnlyVuMeter>
+			<OnlyMinimumToMaximum Value="false"/>
+			<Maximum Value="#c8c800"/>
+			<AboveZeroDecibel Value="#c8c800"/>
+			<ZeroDecibel Value="#6464ff"/>
+			<Minimum Value="#6464ff"/>
+		</SendsOnlyVuMeter>
+		<BipolarGainReductionVuMeter>
+			<OnlyMinimumToMaximum Value="false"/>
+			<Maximum Value="#5577c6"/>
+			<AboveZeroDecibel Value="#5577c6"/>
+			<ZeroDecibel Value="#ffa519"/>
+			<Minimum Value="#ffa519"/>
+		</BipolarGainReductionVuMeter>
+		<OrangeVuMeter>
+			<OnlyMinimumToMaximum Value="true"/>
+			<Maximum Value="#ffa519"/>
+			<AboveZeroDecibel Value="#ffa519"/>
+			<ZeroDecibel Value="#ffa519"/>
+			<Minimum Value="#ffa519"/>
+		</OrangeVuMeter>
+		<MainViewFocusIndicator Value="#44475a"/>
+		<MidiEditorBlackKeyBackground Value="#0a0a0a19"/>
+		<MidiEditorBackgroundWhiteKeySeparator Value="#14141419"/>
+		<RangeEditField3 Value="#8b4b47"/>
+		<ScrollbarInnerHandleHover Value="#6071a4"/>
+		<ScrollbarInnerTrackHover Value="#272935"/>
+		<ScrollbarLcdHandleHover Value="#6071a4"/>
+		<ScrollbarLcdTrackHover Value="#6071a4"/>
+		<ScrollbarMixerShowOnScrollHandleHover Value="#0000004c"/>
+	</Theme>
 </Ableton>
